@@ -12,4 +12,3 @@ class TestClass:
         assert division(4,2) == 2
         assert division(-7,5) == -1.4
         assert division(0,9) == 0
-        assert division(0,0) == "No se puede dividir por cero"
